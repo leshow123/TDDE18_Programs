@@ -1,0 +1,3 @@
+A data file from which input is read to a program.
+Only the first line is read if a single getline(...) is used.
+Part of the input will include gibberish ^@&#^@^ alongside numbers 10, 20, 30 and 40.
